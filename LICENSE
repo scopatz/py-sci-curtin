@@ -1,3 +1,5 @@
+Except where noted, the following copyright applies:
+
 Copyright (c) 2016, Anthony Scopatz
 All rights reserved.
 
@@ -25,3 +27,15 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----------
+
+numpy.ipynb and pandas.ipynb were copied from https://github.com/physics-codes/seminar
+and is distributed under the CC-NC-ND license by Anthony Scopatz & Kathryn Huff et al.,
+copyright O'Rielly Media, Inc. 2015.
+
+----------
+
+sympy.impy was copied from https://github.com/sympy/scipy-2016-tutorial and is
+redistributed under the BSD 3-clause license, Copyright (c) 2016 SymPy Development Team
+All rights reserved.
